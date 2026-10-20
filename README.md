@@ -85,7 +85,7 @@ KNN was then evaluated separately with feature standardization (k=5):
 |---|---|---|---|---|
 | 0 | 0.68 | 0.61 | 0.65 | 67 |
 | 1 | 0.72 | 0.78 | 0.75 | 85 |
-| **Accuracy** | | | **0.70** | **152** |
+| **Overall Accuracy** | | | **0.70** | **152** |
 
 Standardizing features before KNN improved recall on class 0 from 0.51 to 0.61, reducing the model's bias toward predicting the presence of a condition.
 
